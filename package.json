@@ -1,0 +1,13 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Firebase Chat App with Google SignIn",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r src/* dist/",
+    "start": "firebase serve",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^9.23.0"
+  }
+}
