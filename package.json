@@ -1,7 +1,7 @@
 {
   "name": "firebase-chat-app",
   "version": "1.0.0",
-  "description": "A simple realtime chat application built with Firebase Authentication, Realtime Database and Hosting.",
+  "description": "A simple realtime chat application built with Firebase Authentication, Realtime Database, and Hosting.",
   "main": "main.js",
   "scripts": {
     "start": "firebase serve",
